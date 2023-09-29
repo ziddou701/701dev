@@ -1,9 +1,10 @@
 import './App.css';
+import TopNavBar from './Components/TopNavBar';
 
 function App() {
   return (
     <div className="App">
-      <h1>This is 701_Dev page !!!</h1>
+      <TopNavBar/>
     </div>
   );
 }
