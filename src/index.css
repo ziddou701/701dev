@@ -10,3 +10,12 @@
   font-family: "Quicksand";
   color: #333;
 }
+
+.TopNavBar a.active
+{
+  color: #00c;
+  border-bottom: #00c;
+  border-style: solid;
+  padding-bottom: 0.1em;
+  
+}
