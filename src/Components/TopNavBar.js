@@ -7,15 +7,15 @@ const TopNavBar = () => {
                 <div>
                     <p className="mr-auto ml-32 font-bold text-[#5c5c5c]"> 701Dev </p>
                 </div>
-                <div className="flex flex-row ml-auto mr-44 font-bold">
+                <div className="flex flex-row ml-auto mr-32 font-bold">
                     <nav className="TopNavBar">
-                    <NavLink to='/'className="mx-3 pl-1"> Home </NavLink>
-                    <NavLink to='/Home'className="mx-3 pl-1"> About </NavLink>
-                    <NavLink to='/Home'className="mx-3 pl-1"> Skills </NavLink>
-                    <NavLink to='/Home'className="mx-3 pl-1"> Education </NavLink>
-                    <NavLink to='/Home'className="mx-3 pl-1"> Work </NavLink>
-                    <NavLink to='/Home'className="mx-3 pl-1"> Experience </NavLink>
-                    <NavLink to='/Home'className="mx-3 px-1"> Contact </NavLink>
+                    <NavLink to='/Home'className="mx-3 pl-1"> Home </NavLink>
+                    <NavLink to='/'className="mx-3 pl-1"> About </NavLink>
+                    <NavLink to='/'className="mx-3 pl-1"> Skills </NavLink>
+                    <NavLink to='/'className="mx-3 pl-1"> Education </NavLink>
+                    <NavLink to='/'className="mx-3 pl-1"> Work </NavLink>
+                    <NavLink to='/'className="mx-3 pl-1"> Experience </NavLink>
+                    <NavLink to='/'className="mx-3 px-1"> Contact </NavLink>
                     </nav>
                 </div>
             </div>

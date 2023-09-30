@@ -13,9 +13,16 @@
 
 .TopNavBar a.active
 {
-  color: #00c;
-  border-bottom: #00c;
+  color: #006cab;
+  border-bottom: #006cab;
   border-style: solid;
   padding-bottom: 0.1em;
   
+}
+
+.HomePageCover
+{
+  background-image: url('./Components/Assets/bg-3.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
