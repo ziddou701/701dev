@@ -1,7 +1,7 @@
 import { NavLink } from "react-router-dom";
 const TopNavBar = () => {
     return ( 
-        <div className="position-absolute top-0 py-4 bg-[#fff] border-b border-[#e6e6e6]">
+        <div className="position-absolute top-0 py-4 backdrop-blur-md">
             {/* <p className="text-lg font-bold"> hello world! </p> */}
             <div className="flex flex-row">
                 <div>
