@@ -1,11 +1,12 @@
 import { NavLink } from "react-router-dom";
+
 const TopNavBar = () => {
     return ( 
-        <div className="position-absolute top-0 py-4 backdrop-blur-md">
-            {/* <p className="text-lg font-bold"> hello world! </p> */}
+        <div className="fixed w-full top-0 py-4 backdrop-blur-md">
+            {/* Navigation Bar*/}
             <div className="flex flex-row">
                 <div>
-                    <p className="mr-auto ml-32 font-bold text-[#5c5c5c]"> 701Dev </p>
+                    <p className="mr-auto ml-32 font-black text-[#0000006a]"> 701Dev </p>
                 </div>
                 <div className="flex flex-row ml-auto mr-32 font-bold">
                     <nav className="TopNavBar">
