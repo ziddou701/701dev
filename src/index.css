@@ -9,14 +9,7 @@
   margin: 0;
   font-family: "Quicksand";
   color: #333;
-}
-
-.TopNavBar a.active
-{
-  color: #4e789f;
-  border-bottom: #4e789f;
-  border-style: solid;
-  padding-bottom: 0.1em;
+  /* scroll-behavior: smooth; */
 }
 
 .HomePageCover

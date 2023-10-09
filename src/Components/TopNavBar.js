@@ -1,4 +1,4 @@
-import { NavLink } from "react-router-dom";
+import { HashLink as Link } from "react-router-hash-link";
 
 const TopNavBar = () => {
     return ( 
@@ -10,13 +10,12 @@ const TopNavBar = () => {
                 </div>
                 <div className="flex flex-row ml-auto mr-32 font-bold">
                     <nav className="TopNavBar">
-                    <NavLink to='/Home'className="mx-3 pl-1"> Home </NavLink>
-                    <NavLink to='/'className="mx-3 pl-1"> About </NavLink>
-                    <NavLink to='/'className="mx-3 pl-1"> Skills </NavLink>
-                    <NavLink to='/'className="mx-3 pl-1"> Education </NavLink>
-                    <NavLink to='/'className="mx-3 pl-1"> Work </NavLink>
-                    <NavLink to='/'className="mx-3 pl-1"> Experience </NavLink>
-                    <NavLink to='/'className="mx-3 px-1"> Contact </NavLink>
+                    <Link smooth to='#Home'className="mx-3 pl-1"> Home </Link>
+                    <Link smooth to='#About'className="mx-3 pl-1"> About </Link>
+                    <Link to='#Skills'className="mx-3 pl-1"> Skills </Link>
+                    <Link to='#Projects'className="mx-3 pl-1"> Projects </Link>
+                    <Link to='#Resume'className="mx-3 pl-1"> Resume </Link>
+                    <Link to='#Contact'className="mx-3 px-1"> Contact </Link>
                     </nav>
                 </div>
             </div>

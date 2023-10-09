@@ -9,7 +9,7 @@ function App() {
         <Router>
           <TopNavBar/>
             <Routes>
-              <Route path='/Home' element={<Homepage/>} />
+              <Route path='/' element={<Homepage/>} />
             </Routes>
         </Router>
     </div>
