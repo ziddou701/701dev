@@ -12,6 +12,14 @@
   /* scroll-behavior: smooth; */
 }
 
+.Nav-Item:hover
+{
+  color: #4e789f;
+  border-bottom: #4e789f;
+  border-style: solid;
+  padding-bottom: 0.1em;
+}
+
 .HomePageCover
 {
   background-image: url('./Components/Assets/bg.jpg');

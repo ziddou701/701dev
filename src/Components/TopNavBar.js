@@ -10,12 +10,12 @@ const TopNavBar = () => {
                 </div>
                 <div className="flex flex-row ml-auto mr-32 font-bold">
                     <nav className="TopNavBar">
-                    <Link smooth to='#Home'className="mx-3 pl-1"> Home </Link>
-                    <Link smooth to='#About'className="mx-3 pl-1"> About </Link>
-                    <Link to='#Skills'className="mx-3 pl-1"> Skills </Link>
-                    <Link to='#Projects'className="mx-3 pl-1"> Projects </Link>
-                    <Link to='#Resume'className="mx-3 pl-1"> Resume </Link>
-                    <Link to='#Contact'className="mx-3 px-1"> Contact </Link>
+                    <Link smooth to='#Home'className="mx-3 pl-1 hover:text-blue-600 duration-150"> Home </Link>
+                    <Link smooth to='#About'className="mx-3 pl-1 hover:text-blue-600 duration-150"> About </Link>
+                    <Link smooth to='#Skills'className="mx-3 pl-1 hover:text-blue-600 duration-150"> Skills </Link>
+                    <Link smooth to='#Projects'className="mx-3 pl-1 hover:text-blue-600 duration-150"> Projects </Link>
+                    <Link smooth to='#Resume'className="mx-3 pl-1 hover:text-blue-600 duration-150"> Resume </Link>
+                    <Link smooth to='#Contact'className="mx-3 px-1 hover:text-blue-600 duration-150"> Contact </Link>
                     </nav>
                 </div>
             </div>
