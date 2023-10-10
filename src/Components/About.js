@@ -2,7 +2,7 @@ const About = () => {
     return (
         <div className="relative w-10/12 mx-auto min-h-screen snap-start snap-always pt-14" id="About">
 
-            <div className="relative w-fit h-fit p-10 left-16 font-extrabold text-4xl"> About </div> {/* TITLE */}
+            <div className="relative w-fit h-fit p-10 left-16 font-extrabold text-5xl"> About </div> {/* TITLE */}
 
             <div className="flex flex-col ">
                 <div className="w-2/5 py-8 my-4 rounded-lg shadow-lg mr-auto ml-12 ">
