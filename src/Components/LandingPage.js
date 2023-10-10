@@ -32,7 +32,7 @@ const LandingPage = () => {
                         <p className="text-white text-lg" > I create <span className="font-bold text-white/80">simple</span>, yet <span className="font-bold text-white/80">elegant</span> crafts for the web</p>
                     </div>
                     <div 
-                    className="mx-0 mt-12 w-fit drop-shadow-md
+                    className="mx-0 mt-12 w-fit drop-shadow-md 
                     rounded-lg p-4 bg-gradient-to-r from-[#4e789f] to-[#61b7de]
                     text-xl text-center text-white font-extrabold
                     hover:drop-shadow-xl hover:cursor-pointer hover:border-2 duration-150 ease-in-out">
