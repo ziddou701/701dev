@@ -26,7 +26,7 @@ const TopNavBar = () => {
                         className="mx-2 px-1 text-lg pl-1 hover:text-blue-600 hover:border-b-2 hover:pb-1.5 hover:border-blue-600 duration-150">Resume 
                     </Link>
                     <Link smooth to='#Contact'
-                        className="mx-2 px-1 text-lg px-1 hover:text-blue-600 hover:border-b-2 hover:pb-1.5 hover:border-blue-600 duration-150">Contact 
+                        className="mx-2 px-1 text-lg hover:text-blue-600 hover:border-b-2 hover:pb-1.5 hover:border-blue-600 duration-150">Contact 
                     </Link>
                     </nav>
                 </div>
