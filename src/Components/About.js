@@ -1,9 +1,9 @@
 const About = () => {
     return (
         <div className="w-full min-h-screen" id="About">
-            <div className="relative w-10/12 mx-auto min-h-screen snap-start snap-always pt-14">
+            <div className="relative w-10/12 mx-auto min-h-screen snap-start snap-always pt-28">
 
-                <div className="relative w-fit h-fit p-10 left-16 font-extrabold text-5xl"> About </div> {/* TITLE */}
+                <div className="relative w-fit h-fit p-10 left-16 font-extrabold font-sans text-5xl"> About </div> {/* TITLE */}
 
                 <div className="flex flex-col ">
                     <div className="w-2/5 py-8 my-4 rounded-3xl shadow-lg bg-white mr-auto ml-12 ">
