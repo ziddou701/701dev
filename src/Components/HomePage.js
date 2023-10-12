@@ -1,5 +1,6 @@
 import About from "./About";
 import LandingPage from "./LandingPage";
+import Projects from "./Projects";
 import Skills from "./Skills";
 
 const Homepage = () => {
@@ -8,6 +9,7 @@ const Homepage = () => {
             <LandingPage/>
             <About/>
             <Skills/>
+            <Projects/>
         </div>
      );
 }

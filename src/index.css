@@ -34,6 +34,13 @@
   background-size: cover;
 }
 
+#Projects
+{
+  background-image: url(./Components/Assets/T2-C.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 /* #Skills
 {
   background-image: url(./Components/Assets/T2.png);
