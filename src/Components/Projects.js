@@ -15,7 +15,7 @@ const Projects = () => {
                             </svg>
                         </div>
                         <div className='w-10/12 mx-auto py-4 font-medium'>
-                            No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. <br /><br />Link to Project...
+                            No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. <br /><br />Link to Project
                         </div>
                     </div>
 
@@ -27,7 +27,7 @@ const Projects = () => {
                             </p>
                         </div>
                         <div className='w-10/12 mx-auto py-4 font-medium'>
-                            No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. <br /><br />Link to Project...
+                            No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. <br /><br />Link to Project
                         </div>
                     </div>
 
