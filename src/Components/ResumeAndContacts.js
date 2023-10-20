@@ -14,8 +14,8 @@ const ResumeAndContacts = () => {
 
             <div className="w-full relative pt-10 px-40" id="Contact">{/* Contact */}
                 <div className="relative w-full h-fit left-16 font-extrabold text-white font-sans text-5xl"> Contacts </div> {/* TITLE */}
-                    <div className="w-fit pt-20 mx-auto text-slate-100 font-semibold text-xl">
-                        Let's have a chat!
+                    <div className="w-fit pt-20 mx-auto text-slate-100 text-xl">
+                        Let's have a chat !
                     </div>
                     <div className="flex flex-row w-1/2 relative mx-auto pt-10 px-20 h-fit">
                     {/* Social media Handles Array */}
