@@ -7,9 +7,9 @@ const ResumeAndContacts = () => {
             <div className="w-full pt-40 pb-20 px-40 bg-slate-200"> {/* Resume */}
                 <div className="relative w-fit h-fit left-16 font-extrabold font-sans text-5xl"> Resume </div> {/* TITLE */}
                     <div className='w-10/12 mx-auto py-8 font-medium'>
-                        No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.
+                    As a MERN (MongoDB, Express.js, React, Node.js) developer, I've already gained valuable experience through several web development projects. I'm passionate about crafting dynamic and user-centric web applications, and I've successfully translated innovative ideas into functional and visually appealing digital experiences.
                     </div>
-                    <div className='flex flex-row my-5 bg-slate-50 w-4/6 h-fit p-10 mx-auto rounded-3xl shadow-md'>{/*Resume Card */}
+                    <div className='flex flex-row my-4 bg-slate-50 w-4/6 h-fit p-8 mx-auto rounded-3xl shadow-md'>{/*Resume Card */}
                         <img src={require('./Assets/Resume.png')} alt="Resume" className='w-28' /> {/* Resume SVG Logo */}
                         <div className='mt-auto p-3 text-lg font-medium'>
                             MyResume.PDF
@@ -29,7 +29,7 @@ const ResumeAndContacts = () => {
 
             <div className="w-full relative pt-10 px-40" id="Contact">{/* Contact */}
                 <div className="relative w-full h-fit left-16 font-extrabold text-white font-sans text-5xl"> Contacts </div> {/* TITLE */}
-                    <div className="w-fit pt-20 mx-auto text-slate-100 text-xl">
+                    <div className="w-fit pt-10 mx-auto text-slate-100 text-xl">
                         Let's have a chat !
                     </div>
                     <div className="flex flex-row w-1/2 relative mx-auto pt-10 px-20 h-fit">

@@ -6,12 +6,6 @@ import TopNavBar from './Components/TopNavBar';
 function App() {
   return (
     <div className="App">
-        {/* <Router>
-          <TopNavBar/>
-            <Routes>
-              <Route path='/' element={<Homepage/>} />
-            </Routes>
-        </Router> */}
         <Router>
           <TopNavBar/>
           <Homepage/>

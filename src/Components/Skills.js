@@ -5,9 +5,9 @@ const Skills = () => {
             <div className="relative w-10/12 h-fit pt-40 px-24 mx-auto font-extrabold text-5xl font-sans text-slate-50"> Skills </div> {/* TITLE */}
 
             <div className="w-full py-5"> {/*Description text */}
-                <p className="w-5/12 mx-auto text-slate-50 text-center text-lg">Velit euismod in pellentesque massa placerat duis ultricies. Nulla facilisi etiam dignissim diam. Turpis in eu mi bibendum neque egestas.</p>
+                <p className="w-5/12 mx-auto text-slate-50 text-center text-lg">I am a highly skilled and motivated developer with a diverse range of talents and expertise I have honed through hands-on experiences and continuous learning</p>
             </div>
-            
+
             <div className="w-10/12 h-fit mt-10 mx-auto flex flex-row">
 
                 <div className="w-5/12 h-fit flex flex-col mt-10 mr-auto ">{/*Left column */}
@@ -49,9 +49,9 @@ const Skills = () => {
                     <p className="relative w-fit h-fit mx-auto font-bold text-3xl font-sans text-slate-50"> Others</p> {/* Sub-TITLE */}
 
                         <li className="mt-10 list-disc font-semibold text-xl font-sans text-slate-50">UI/UX Design</li>
-                            <p className="py-5 text-slate-50 w-10/12 mx-auto">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt</p>
+                            <p className="py-5 text-slate-50 w-10/12 mx-auto">I specialize in creating user-centered digital experiences, blending user research, wireframing, interaction design, and visual aesthetics. I'm committed to making designs that are not only visually appealing but also highly functional and user-friendly.</p>
                         <li className="mt-10 list-disc font-semibold text-xl font-sans text-slate-50">Full-Stack M.E.R.N Developer</li>
-                            <p className="py-5 text-slate-50 w-10/12 mx-auto">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt</p>
+                            <p className="py-5 text-slate-50 w-10/12 mx-auto">I am a skilled web developer proficient in MongoDB, Express.js, React, and Node.js. I can design and build both front-end user interfaces and back-end server applications, making me a versatile contributor to web development projects.</p>
                 </div>
 
             </div>

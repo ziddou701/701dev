@@ -15,7 +15,7 @@ const Projects = () => {
                             </svg>
                         </div>
                         <div className='w-10/12 mx-auto py-4 font-medium'>
-                            No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. <br /><br /> 
+                        This MERN-based project creates a user-friendly on-demand delivery platform. Users can place delivery requests, track orders in real-time, and make secure payments. Delivery personnel can register, accept assignments, and earn through the system. It offers an efficient and reliable solution for quick, hassle-free deliveries. <br /><br /> 
                             <a href='https://github.com/ziddou701/Tangana' className=' bg-[#f1356d] px-5 py-3 rounded-full drop-shadow-md font-black text-slate-50 font-sans
                              hover:bg-slate-200 hover:text-[#f1356d] duration-150' > Go to Project </a>
                         </div>
@@ -29,7 +29,7 @@ const Projects = () => {
                             </p>
                         </div>
                         <div className='w-10/12 mx-auto py-4 font-medium'>
-                            No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. <br /><br />
+                        I completely modernized the ESDCO website by streamlining navigation, updating the visual design, enhancing performance, improving content quality, and incorporating modern features. The result is a user-friendly and engaging platform that reflects ESDCO's values and appeals to a contemporary audience. <br /><br />
                             <a href='https://github.com/ziddou701/esdco' className=' bg-blue-500 px-5 py-3 rounded-full drop-shadow-md font-black text-slate-50 font-sans
                              hover:bg-slate-200 hover:text-blue-500 duration-150' > Go to Project </a>
                         </div>
