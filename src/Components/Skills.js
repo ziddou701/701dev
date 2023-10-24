@@ -1,7 +1,7 @@
 
 const Skills = () => {
     return ( 
-        <div className="w-full min-h-screen snap-start snap-always bg-slate-900" id="Skills">
+        <div className="w-full max-h-screen min-h-screen inset-0 snap-start snap-always bg-slate-900" id="Skills">
             <div className="relative w-fit h-fit pt-32 sm:pt-40 lg:px-24 mx-auto lg:ml-28 font-extrabold text-4xl sm:text-5xl font-sans text-slate-50"> Skills </div> {/* TITLE */}
 
             <div className="w-full py-3 sm:py-5"> {/*Description text */}

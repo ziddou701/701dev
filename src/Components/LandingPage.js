@@ -1,7 +1,7 @@
 
 const LandingPage = () => {
     return ( 
-        <div className="HomePageCover h-screen flex flex-col snap-start snap-always" id="Home">
+        <div className="HomePageCover max-h-screen min-h-screen inset-0 flex flex-col snap-start snap-always" id="Home">
 
             <div className="flex flex-row h-screen">
                 {/* The rows */}

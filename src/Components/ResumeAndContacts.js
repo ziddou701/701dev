@@ -2,7 +2,7 @@ import RESUMEFILE from './Assets/MyResume.pdf';
 
 const ResumeAndContacts = () => {
     return (
-        <div className="min-h-screen w-full snap-always snap-start bg-slate-900 flex flex-col" id="Resume">
+        <div className="min-h-screen max-h-screen inset-0 w-full snap-always snap-start bg-slate-900 flex flex-col" id="Resume">
 
             <div className="w-full pt-28 sm:pt-32 pb-4 sm:pb-12 lg:px-40 bg-slate-200"> {/* Resume */}
                 <div className="relative w-fit h-fit mx-auto lg:mx-0 lg:left-16 font-extrabold font-sans text-4xl sm:text-5xl"> Resume </div> {/* TITLE */}

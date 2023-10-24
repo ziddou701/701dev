@@ -2,7 +2,7 @@
 const Projects = () => {
     
     return (
-        <div className="w-full min-h-screen bg-slate-200 snap-start snap-always " id="Projects">
+        <div className="w-full max-h-screen min-h-screen inset-0 bg-slate-200 snap-start snap-always " id="Projects">
             <div className='h-screen w-full backdrop-blur-xl'> {/*Simply to add the blur effect to the whole screen*/}
                 <div className="relative w-10/12 mx-auto pt-28 ">
                     <div className="relative w-fit h-fit p-5 2xl:p-10 mx-auto lg:mx-0 lg:left-16 font-extrabold font-sans text-4xl sm:text-5xl"> Projects </div> {/* TITLE */}
