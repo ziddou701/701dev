@@ -14,22 +14,22 @@ const TopNavBar = () => {
                 <div className="flex flex-row font-bold mx-auto">
                     <nav className="TopNavBar">
                     <Link smooth to='#Home'
-                        className="mx-1 md:mx-2 px-1 text-xs md:text-lg pl-1 hover:text-blue-600 hover:border-b-2 hover:pb-1.5 hover:border-blue-600 duration-150">Home 
+                        className="mx-1 md:mx-2 px-1 text-xs sm:text-lg pl-1 hover:text-blue-600 hover:border-b-2 hover:pb-1.5 hover:border-blue-600 duration-150">Home 
                     </Link>
                     <Link smooth to='#About'
-                        className="mx-1 md:mx-2 px-1 text-xs md:text-lg pl-1 hover:text-blue-600 hover:border-b-2 hover:pb-1.5 hover:border-blue-600 duration-150">About 
+                        className="mx-1 md:mx-2 px-1 text-xs sm:text-lg pl-1 hover:text-blue-600 hover:border-b-2 hover:pb-1.5 hover:border-blue-600 duration-150">About 
                     </Link>
                     <Link smooth to='#Skills'
-                        className="mx-1 md:mx-2 px-1 text-xs md:text-lg pl-1 hover:text-blue-600 hover:border-b-2 hover:pb-1.5 hover:border-blue-600 duration-150">Skills 
+                        className="mx-1 md:mx-2 px-1 text-xs sm:text-lg pl-1 hover:text-blue-600 hover:border-b-2 hover:pb-1.5 hover:border-blue-600 duration-150">Skills 
                     </Link>
                     <Link smooth to='#Projects'
-                        className="mx-1 md:mx-2 px-1 text-xs md:text-lg pl-1 hover:text-blue-600 hover:border-b-2 hover:pb-1.5 hover:border-blue-600 duration-150">Projects 
+                        className="mx-1 md:mx-2 px-1 text-xs sm:text-lg pl-1 hover:text-blue-600 hover:border-b-2 hover:pb-1.5 hover:border-blue-600 duration-150">Projects 
                     </Link>
                     <Link smooth to='#Resume'
-                        className="mx-1 md:mx-2 px-1 text-xs md:text-lg pl-1 hover:text-blue-600 hover:border-b-2 hover:pb-1.5 hover:border-blue-600 duration-150">Resume 
+                        className="mx-1 md:mx-2 px-1 text-xs sm:text-lg pl-1 hover:text-blue-600 hover:border-b-2 hover:pb-1.5 hover:border-blue-600 duration-150">Resume 
                     </Link>
                     <Link smooth to='#Contact'
-                        className="mx-1 md:mx-2 px-1 text-xs md:text-lg hover:text-blue-600 hover:border-b-2 hover:pb-1.5 hover:border-blue-600 duration-150">Contact 
+                        className="mx-1 md:mx-2 px-1 text-xs sm:text-lg hover:text-blue-600 hover:border-b-2 hover:pb-1.5 hover:border-blue-600 duration-150">Contact 
                     </Link>
                     </nav>
                 </div>
