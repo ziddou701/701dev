@@ -5,7 +5,7 @@ const LandingPage = () => {
 
             <div className="flex flex-row h-screen">
                 {/* The rows */}
-                <div className="flex flex-col relative top-1/4 pt-10 lg:left-20 px-10 lg:px-20 h-fit">
+                <div className="flex flex-col relative top-36 sm:top-1/4 pt-10 lg:left-20 px-10 lg:px-20 h-fit">
                 {/* Social media Handles Vertical Array */}
                     <a href='https://github.com/ziddou701'>
                         {/* Github SVG */}
@@ -27,10 +27,10 @@ const LandingPage = () => {
                     </a>
                 </div>
 
-                <div className="flex flex-col relative top-32 sm:top-1/4 pt-28 lg:pt-32 px-5 sm:pl-20 lg:pl-40 h-fit w-fit">
+                <div className="flex flex-col relative top-16 sm:top-1/4 pt-28 lg:pt-32 px-5 sm:pl-20 lg:pl-40 h-fit w-fit">
                     {/*The text Bits*/}
                     <div className="mx-0">
-                        <p className="text-xl font-bold text-white/75">Bonjour , I am</p>
+                        <p className="text-xl font-bold text-white/75">Hello , I am</p>
                         <p className="text-5xl font-extrabold text-white" >Ousmane <span>Konate</span></p>
                         <p className="font-extrabold text-5xl" > Front-End <span className="text-white">Developer</span> </p>
                     </div>
@@ -50,7 +50,7 @@ const LandingPage = () => {
             </div>
 
             
-            <div className="relative mx-auto w-fit border-2 p-3 rounded-full bottom-12 animate-bounce"> 
+            <div className="relative mx-auto w-fit border-2 p-3 rounded-full bottom-20 lg:bottom-12 animate-bounce"> 
                 {/*bouncy animated scroll indication*/}
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" className="w-4 md:w-6 fill-[#ddd]"><path d="M233.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 338.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z"/></svg>
             </div>

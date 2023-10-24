@@ -5,11 +5,11 @@ const Projects = () => {
         <div className="w-full max-h-screen min-h-screen inset-0 bg-slate-200 snap-start snap-always " id="Projects">
             <div className='h-screen w-full backdrop-blur-xl'> {/*Simply to add the blur effect to the whole screen*/}
                 <div className="relative w-10/12 mx-auto pt-28 ">
-                    <div className="relative w-fit h-fit p-5 2xl:p-10 mx-auto lg:mx-0 lg:left-16 font-extrabold font-sans text-4xl sm:text-5xl"> Projects </div> {/* TITLE */}
+                    <div className="relative w-fit h-fit p-0 md:p-10 mx-auto lg:mx-0 lg:left-16 font-extrabold font-sans text-4xl sm:text-5xl"> Projects </div> {/* TITLE */}
                     
                     <div className='flex flex-col my-5 bg-slate-50 w-full lg:w-8/12 p-2 2xl:p-5 mx-auto rounded-3xl shadow-md shadow-cyan-300/25'>{/*TANGANA Project */}
                         <div className='flex flex-row'>
-                            <img src={require('./Assets/Tangana-Logo.png')} alt="Logo" className='w-8 h-fit 2xl:w-12 rounded-lg ml-5 mr-2 2xl:mx-5 shadow-lg' />
+                            <img src={require('./Assets/Tangana-Logo.png')} alt="Logo" className='w-8 h-8 2xl:w-12 2xl:h-12 rounded-lg ml-5 mr-2 2xl:mx-5 shadow-lg' />
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 31" className="w-28 2xl:w-40">
                                 <text id="Tangana" fill="#f1356d" font-size="25" font-family="Quicksand-Bold, Quicksand" font-weight="700"><tspan x="0" y="25">Tangana</tspan></text>
                             </svg>
@@ -23,7 +23,7 @@ const Projects = () => {
 
                     <div className='flex flex-col my-5 bg-slate-50 w-full lg:w-8/12 p-2 2xl:p-5 mx-auto rounded-3xl shadow-md shadow-cyan-300/25'>{/*ESDCO Project */}
                         <div className='flex flex-row'>
-                            <img src={require('./Assets/ESDCO.jpg')} alt="Logo" className='w-8 h-fit 2xl:w-12 rounded-full ml-5 mr-2 2xl:mx-5 shadow-lg' />
+                            <img src={require('./Assets/ESDCO.jpg')} alt="Logo" className='w-8 h-8 2xl:w-12 2xl:h-12 rounded-full ml-5 mr-2 2xl:mx-5 shadow-lg' />
                             <p className="w-fit text-2xl 2xl:text-3xl font-serif font-bold my-auto text-blue-600">
                                 ESDCO
                             </p>

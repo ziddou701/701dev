@@ -6,7 +6,7 @@ import Skills from "./Skills";
 
 const Homepage = () => {
     return (
-        <div className="absolute flex flex-col max-h-screen min-h-screen inset-0 overflow-y-scroll w-full top-0 -z-10 snap-y snap-mandatory" >
+        <div className="absolute flex flex-col fullScreen overflow-y-scroll w-full top-0 -z-10 snap-y snap-mandatory" >
             <LandingPage/>
             <About/>
             <Skills/>

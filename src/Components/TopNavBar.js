@@ -4,7 +4,7 @@ const TopNavBar = () => {
     return ( 
         <div className="fixed w-full top-0 py-4">
             {/* Navigation Bar*/}
-            <div className="flex flex-row h-fit w-fit p-5 mx-auto mt-5 rounded-full bg-white">
+            <div className="flex flex-row h-fit w-fit p-5 mx-auto md:mt-5 rounded-full bg-white">
                 <div>
                     <p className="mx-20 font-black text-[#0000006a] cursor-default select-none hidden
                                     lg:block"> 
