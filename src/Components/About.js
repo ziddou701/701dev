@@ -3,7 +3,7 @@ const About = () => {
         <div className="w-full min-h-screen bg-slate-100" id="About">
             <div className="relative w-10/12 mx-auto snap-start snap-always pt-28">
 
-                <div className="relative w-fit h-fit mx-auto p-5 lg:p-10 lg:ml-16 font-extrabold font-sans text-5xl"> About </div> {/* TITLE */}
+                <div className="relative w-fit h-fit mx-auto p-5 lg:p-10 lg:ml-16 font-extrabold font-sans text-4xl md:text-5xl"> About </div> {/* TITLE */}
 
                 <div className="flex flex-col ">
                     <div className=" w-full lg:w-6/12 py-5 lg:py-8 my-4 rounded-3xl shadow-md shadow-cyan-300/25 bg-white mx-auto lg:mr-aut lg:ml-12 ">
