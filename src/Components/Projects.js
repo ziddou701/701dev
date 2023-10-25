@@ -30,7 +30,7 @@ const Projects = () => {
                         </div>
                         <div className='w-10/12 mx-auto py-4 text-xs 2xl:text-base font-medium'>
                         I completely modernized the ESDCO website by streamlining navigation, updating the visual design, enhancing performance, improving content quality, and incorporating modern features. The result is a user-friendly and engaging platform that reflects ESDCO's values and appeals to a contemporary audience. <br /><br />
-                            <a href='https://github.com/ziddou701/esdco' className=' bg-blue-500 px-5 py-2 2xl:py-3 rounded-full drop-shadow-md font-black text-slate-50 font-sans
+                            <a href='https://ziddou701.github.io/esdco' className=' bg-blue-500 px-5 py-2 2xl:py-3 rounded-full drop-shadow-md font-black text-slate-50 font-sans
                              hover:bg-slate-200 hover:text-blue-500 duration-150' > Go to Project </a>
                         </div>
                     </div>

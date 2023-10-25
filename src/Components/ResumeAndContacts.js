@@ -7,7 +7,7 @@ const ResumeAndContacts = () => {
             <div className="w-full pt-24 md:pt-32 pb-4 sm:pb-12 lg:px-40 bg-slate-200"> {/* Resume */}
                 <div className="relative w-fit h-fit mx-auto lg:mx-0 lg:left-16 font-extrabold font-sans text-4xl sm:text-5xl"> Resume </div> {/* TITLE */}
                     <div className='w-10/12 mx-auto py-4 sm:py-8 text-xs sm:text-base font-medium'>
-                    As a MERN (MongoDB, Express.js, React, Node.js) developer, I've already gained valuable experience through several web development projects. I'm passionate about crafting dynamic and user-centric web applications, and I've successfully translated innovative ideas into functional and visually appealing digital experiences.
+                    As a M.E.R.N developer (MongoDB, Express.js, React, Node.js), I have already gained valuable experience through several web development projects. I am passionate about crafting dynamic and user-centric web applications, and I have successfully translated innovative ideas into functional and visually appealing digital experiences.
                     </div>
                     <div className='flex flex-col sm:flex-row my-2 2xl:my-4 bg-slate-50 w-4/6 h-fit p-4 2xl:p-8 mx-auto rounded-3xl shadow-md'>{/*Resume Card */}
                         <img src={require('./Assets/Resume.png')} alt="Resume" className='w-12 h-fit mx-auto 2xl:mx-0 2xl:w-28' /> {/* Resume SVG Logo */}
