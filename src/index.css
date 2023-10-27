@@ -52,3 +52,33 @@
 {
   max-height: 100dvh;
 }
+
+/* ---------------------- animations ---------------------------------------------- */
+
+.slideFromLeft
+{
+  transform: translateX(-8rem);
+  opacity: 0;
+  transition: 500ms ;
+}
+
+.slideFromLeft.show
+{
+  transform: translateX(0);
+  opacity: 1;
+  transition-delay: 75ms;
+}
+
+.slideUp
+{
+  transform: translateY(5rem);
+  opacity: 0;
+  transition: 500ms ;
+}
+
+.slideUp.show
+{
+  transform: translateX(0);
+  opacity: 1;
+  transition-delay: 75ms;
+}
