@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.01fbe74d.css",
+    "main.css": "/static/css/main.ff8eae48.css",
     "main.js": "/static/js/main.8c560713.js",
     "static/js/787.899a1203.chunk.js": "/static/js/787.899a1203.chunk.js",
     "static/media/MyResume.pdf": "/static/media/MyResume.e6990cbd5bfd8d13e737.pdf",
-    "static/media/T8.png": "/static/media/T8.d584c4d889d70ee04ed9.png",
     "static/media/Tangana-Logo.png": "/static/media/Tangana-Logo.e099e2dadaf08e965f91.png",
     "static/media/ESDCO.jpg": "/static/media/ESDCO.ee4b20f4e48cd1c385bb.jpg",
     "static/media/bg-2.jpg": "/static/media/bg-2.012012743d6486e19c74.jpg",
     "static/media/Resume.png": "/static/media/Resume.ebc6b816fab8bbbea350.png",
     "index.html": "/index.html",
-    "main.01fbe74d.css.map": "/static/css/main.01fbe74d.css.map",
+    "main.ff8eae48.css.map": "/static/css/main.ff8eae48.css.map",
     "main.8c560713.js.map": "/static/js/main.8c560713.js.map",
     "787.899a1203.chunk.js.map": "/static/js/787.899a1203.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01fbe74d.css",
+    "static/css/main.ff8eae48.css",
     "static/js/main.8c560713.js"
   ]
 }
