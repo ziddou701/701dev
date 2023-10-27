@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6ddf825.css",
-    "main.js": "/static/js/main.35f5f26d.js",
+    "main.css": "/static/css/main.01fbe74d.css",
+    "main.js": "/static/js/main.8c560713.js",
     "static/js/787.899a1203.chunk.js": "/static/js/787.899a1203.chunk.js",
-    "static/media/ESDCO.jpg": "/static/media/ESDCO.7848ee6a13a06f49a218.jpg",
-    "static/media/T8.png": "/static/media/T8.f437411bae0a512352f6.png",
-    "static/media/Tangana-Logo.png": "/static/media/Tangana-Logo.c993bf49f591970c6a42.png",
-    "static/media/bg-2.jpg": "/static/media/bg-2.98247470545b7cc2e744.jpg",
-    "static/media/T2-C.png": "/static/media/T2-C.74e748a9faadd93f3f0a.png",
     "static/media/MyResume.pdf": "/static/media/MyResume.e6990cbd5bfd8d13e737.pdf",
+    "static/media/T8.png": "/static/media/T8.d584c4d889d70ee04ed9.png",
+    "static/media/Tangana-Logo.png": "/static/media/Tangana-Logo.e099e2dadaf08e965f91.png",
+    "static/media/ESDCO.jpg": "/static/media/ESDCO.ee4b20f4e48cd1c385bb.jpg",
+    "static/media/bg-2.jpg": "/static/media/bg-2.012012743d6486e19c74.jpg",
     "static/media/Resume.png": "/static/media/Resume.ebc6b816fab8bbbea350.png",
     "index.html": "/index.html",
-    "main.b6ddf825.css.map": "/static/css/main.b6ddf825.css.map",
-    "main.35f5f26d.js.map": "/static/js/main.35f5f26d.js.map",
+    "main.01fbe74d.css.map": "/static/css/main.01fbe74d.css.map",
+    "main.8c560713.js.map": "/static/js/main.8c560713.js.map",
     "787.899a1203.chunk.js.map": "/static/js/787.899a1203.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6ddf825.css",
-    "static/js/main.35f5f26d.js"
+    "static/css/main.01fbe74d.css",
+    "static/js/main.8c560713.js"
   ]
 }
