@@ -23,6 +23,7 @@
 .HomePageCover
 {
   background-image: url('./Components/Assets/bg-2.jpg');
+  background-color: #333;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -34,12 +35,12 @@
   background-size: cover;
 }
 
-#Projects
+/* #Projects
 {
   background-image: url(./Components/Assets/T2-C.png);
   background-repeat: no-repeat;
   background-size: cover;
-}
+} */
 
 /* #Skills
 {
@@ -81,4 +82,25 @@
   transform: translateX(0);
   opacity: 1;
   transition-delay: 75ms;
+}
+
+
+
+
+
+
+
+
+body {
+  animation: fadeInAnimation ease 3s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation {
+  0% {
+      opacity: 0;
+  }
+  100% {
+      opacity: 1;
+  }
 }
