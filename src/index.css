@@ -28,27 +28,6 @@
   background-repeat: no-repeat;
 }
 
-#About
-{
-  background-image: url(./Components/Assets/T8.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-/* #Projects
-{
-  background-image: url(./Components/Assets/T2-C.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-} */
-
-/* #Skills
-{
-  background-image: url(./Components/Assets/T2.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-} */
-
 .fullScreen
 {
   max-height: 100dvh;
