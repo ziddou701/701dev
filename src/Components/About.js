@@ -32,7 +32,7 @@ const About = () => {
                     <div className=" slideFromLeft w-full 2xl:w-6/12 py-5 2xl:py-8 my-4 rounded-3xl shadow-md shadow-cyan-300/25 bg-white mx-auto 2xl:mr-aut 2xl:ml-12 ">
                         <p className="w-full px-6 2xl:px-12 py-1 2xl:py-5 font-medium text-sm sm:text-lg"> 
                             <p className="pb-4 font-black text-xl text-blue-600">Elegant</p>
-                            I develop elegant web solutions because I believe that the digital world should not only be functional but also visually pleasing and user-friendly. Elegant design and functionality go hand in hand, creating a seamless and enjoyable user experience. When I craft elegant web applications, I prioritize clean and intuitive user interfaces, smooth interactions, and a cohesive visual identity. 
+                            I develop elegant web solutions because I believe that the digital world should not only be functional but also visually pleasing and user-friendly. Elegant design and functionality go hand in hand, creating a seamless and enjoyable user experience. When I create web applications, I prioritize clean and intuitive user interfaces, smooth interactions, and a cohesive visual identity. 
                         </p>
                     </div>
                     <div className=" slideFromLeft w-full 2xl:w-6/12 py-5 2xl:py-8 my-4 rounded-3xl shadow-md shadow-cyan-300/25 bg-white mx-auto 2xl:ml-aut 2xl:mr-12 ">
