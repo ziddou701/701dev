@@ -37,7 +37,7 @@ const LandingPage = () => {
                         <p className="font-extrabold text-5xl" > Front-End <span className="text-white">Developer</span> </p>
                     </div>
                     <div className="mx-0 mt-4">
-                        <p className="text-white text-lg" > I create <span className="font-bold text-white/80">simple</span>, yet <span className="font-bold text-white/80">elegant</span> crafts for the web</p>
+                        <p className="text-white text-lg" ><span className="font-bold text-white/80">Simple</span>, yet <span className="font-bold text-white/80">elegant</span> crafts for the web</p>
                     </div>
                     <a href="mailto:ousmane.z.konate@hotmail.com"  
                     className="mx-0 mt-12 w-fit drop-shadow-md 
